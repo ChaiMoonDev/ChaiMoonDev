@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChaiMoonDev
-- 👀 I’m interested in ... about the tech industry, learning coding to change careers, 
+- 👀 I’m interested in ...  the tech industry, learning coding to change careers, 
 - I'm also an artist and dabble in various other creative hobbies.
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...nothing much right now. Maybe a study buddy if anything.
